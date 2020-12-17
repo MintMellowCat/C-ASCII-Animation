@@ -1,4 +1,4 @@
-# C-ASCII-Animation
+# C++ ASCII Animation
 Basic ASCII animation made using C++ and CMake.
 
 ![Screenshot Number 1](https://github.com/MintMellowCat/C-ASCII-Animation/blob/main/Screenshot_20201218_091703.png)
